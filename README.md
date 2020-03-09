@@ -1,6 +1,4 @@
-# Datascience
-
-Response Modeling of Bank Marketing Campaign
+#Response Modeling of Bank Marketing Campaign
 
 
 
